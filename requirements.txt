@@ -1,0 +1,7 @@
+tesseract
+transformers
+pytesseract
+pillow
+torch
+gradio
+streamlit
